@@ -1,1 +1,1 @@
-# srcserver__go_asm
+# example server Go(LLNW)-Asm for pkt2 SP
